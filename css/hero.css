@@ -6,12 +6,13 @@ header{
 	background-color: #328ba8;
 	padding: 40px; 
 	text-align: center;
+
 }
 
 h1{
 	font-size: 90px; 
 	color: white;
-	font-style: italic;
+	font-style: italic;  
 }
 header img{
 border-radius: 150px;
@@ -19,9 +20,10 @@ border-width: 300px;
 border: 10px solid #a8d5f7
 }
 .content{
-	max-width: 900px;
+	max-width: 1200px;
 	padding: 0
 	margin: 0 auto;
+	text-align: center;
 	background-color: #c9eeff
 }
 img.big-image{max-width: 100%
